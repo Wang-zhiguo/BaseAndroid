@@ -1,1 +1,1 @@
-include ':app', ':LayoutDemo'
+include ':app'
